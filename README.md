@@ -1,10 +1,8 @@
-# OrangeHRM E2E Automation — Candidate README
-
-Name: Luqman Hakim bin Noorazmi
+# OrangeHRM E2E Automation
 
 ## Setup
 
-- Install dependencies with npm install (Playwright, Tyoescript, Dotenv, Prettier)
+- Install dependencies with npm install (Playwright, Typescript, Dotenv, Prettier)
 - The project has been tested using Chrome but other browsers are also supported using the command 'npx playwright test --project=chromium @  --project=firefox @ --project=webkit'
 - Initialize a Git repository and link it to the GitHub repository
 
